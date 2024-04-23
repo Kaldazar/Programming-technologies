@@ -21,5 +21,5 @@ Using: sh tech1.sh <input_dir> <output_dir>
 ```
 If you specify non-existent directories, the script will notify you about it.
 
-> Link to Telegram: [@deathrattle94](https://t.me/deathrattle94)
+> Link to Telegram: [@deathrattle94](https://t.me/deathrattle94)  
 > Сorporate mail: drgayfutdinov@edu.hse.ru
