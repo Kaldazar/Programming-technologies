@@ -1,5 +1,6 @@
 # Technical project №1
 ### Script for copying files from one directory to another
+Filename in repository: tech1.sh
 #### Using:
 ```
 sh tech1.sh <input_dir> <output_dir>
