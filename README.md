@@ -1,5 +1,5 @@
 # Technical project №1
-**Script for copying files from one directory to another**
+**Script for copying files from one directory to another**  
 Filename in repository: tech1.sh
 ### Using
 
