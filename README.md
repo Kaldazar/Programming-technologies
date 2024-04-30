@@ -1,7 +1,7 @@
 # Technical project №1
 **Script for copying files from one directory to another**
 Filename in repository: tech1.sh
-### Using:
+### Using
 
 1. **Cloning repository**
 
@@ -23,14 +23,14 @@ Filename in repository: tech1.sh
     Input
 
     ```
-    sh tech1.sh /c/Users/User/Desktop/in /c/Users/User/Desktop/out
+    sh tech1.sh /path/programming-technologies/in /path/programming-technologies/out
     ```
 
     Output
 
     ```
     The copying has started...
-    Files copied from /c/Users/User/Desktop/in to /c/Users/User/Desktop/out
+    Files copied from /path/programming-technologies/in to /path/programming-technologies/out
     ```
 
 4. **Issues**
@@ -43,8 +43,8 @@ Filename in repository: tech1.sh
 
 ### Tests
 
-The repository contains the "dir" directory, which simulates an input directory with a complex file structure:
-* dir
+The repository contains the "in" directory, which simulates an input directory with a complex file structure:
+* in
     * a.txt
     * b.py
     * c.pdf
@@ -53,8 +53,8 @@ The repository contains the "dir" directory, which simulates an input directory 
         * d.py
         * e.txt
 
-After running the script, the following files will appear in the output directory (dir1 in the repository):
-* dir1
+After running the script, the following files will appear in the output directory ("out" in the repository):
+* out
     * .gitkeep
     * a.txt
     * a1.txt
